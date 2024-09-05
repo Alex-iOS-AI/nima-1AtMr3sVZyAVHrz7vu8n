@@ -6,7 +6,7 @@ interface CircleProps {
   color: string;
   style?: ViewStyle;
 }
-fsdfdsf
+
 const Circle: React.FC<CircleProps> = ({ size, color, style }) => {
   return (
     <View
